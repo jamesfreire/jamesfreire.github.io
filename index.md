@@ -60,7 +60,7 @@ Principal Data Architect with 15+ years designing and implementing complex cloud
 
 • **Designed and deployed** Redshift data warehousing architecture supporting multi-terabyte risk datasets for enterprise risk analytics reporting
 
-### **Oracle** | **Principal Data Scientist - Infrastructure Analytics**
+### **Oracle** | **Senior Data Scientist - Infrastructure Analytics**
 **August 2019 - November 2022**
 
 • **Transformed customer experience** through advanced data modeling and statistical analysis, reducing Time-to-Resolution by 40% via optimized ticketing processes

@@ -2,8 +2,8 @@
 **Principal Data Architect | AI Integration Leader**  
 james.freire@gmail.com 
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png)LinkedIn](https://www.linkedin.com/in/jamesfreire) |
-[![GitHub](https://i.sstatic.net/tskMh.png)GitHub](https://github.com/jamesfreire) |
+![image](https://i.sstatic.net/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/jamesfreire) |
+![GitHub](https://i.sstatic.net/tskMh.png) [GitHub](https://github.com/jamesfreire) |
 [Substack](https://jamesfreire.substack.com)
 
 ## Professional Summary

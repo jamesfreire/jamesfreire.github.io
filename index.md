@@ -1,6 +1,6 @@
 # James Freire
 **Principal Data Architect | AI Integration Leader**  
-james.freire@gmail.com • linkedin.com/in/jamesfreire
+james.freire@gmail.com • https://linkedin.com/in/jamesfreire • https://github.com/jamesfreire
 
 ## Professional Summary
 

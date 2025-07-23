@@ -8,30 +8,30 @@ james.freire@gmail.com
 
 ## Professional Summary
 
-Principal Data Architect with 15+ years designing and implementing complex cloud-based data solutions across enterprise environments. An Amazon/AWS Alumni with proven expertise in the AWS ecosystem, plus consulting engagements with Amazon. Deep background in both traditional and modern data technologies, including vector databases, machine learning, and GenAI integration. Track record of leading strategic data initiatives, reducing costs by 45%, and achieving 97% enterprise compliance through innovative data architecture.
+Principal Data Architect with 15+ years designing and implementing complex cloud-based data solutions across enterprise environments. An Amazon/AWS Alumni with proven expertise in the data ecosystem, plus consulting engagements with Amazon. Deep background in both traditional and modern data technologies, including vector databases, machine learning, and GenAI integration. Track record of leading strategic data initiatives, reducing costs by 45%, and achieving 97% enterprise compliance through innovative data architecture.
 
-## Core Competencies
+## Core Technologies
 
-**AWS Data Ecosystem:** Redshift, S3, Glue, Lambda, SageMaker, Bedrock, EC2  
+**Modern Data & AI:** Vector databases (TimescaleDB, pgvector), Tensorflow, Machine Learning & MLOps, GenAI/RAG architectures, Big data processing (Spark), Streaming solutions  
 **Traditional Data:** Relational database design & optimization, Data modeling (transactional & analytics), BI dashboards (Tableau, Oracle Analytics), Data governance  
-**Modern Data & AI:** Vector databases (TimescaleDB, pgvector), Machine Learning & MLOps, GenAI/RAG architectures, Big data processing (Spark), Streaming solutions  
+**AWS Data Ecosystem:** Redshift, S3, Glue, Lambda, SageMaker, EMR, Bedrock, EC2  
 **DataOps & Infrastructure:** Python automation, ETL/ELT pipelines, Infrastructure as Code, CI/CD, Data testing & versioning  
-**Programming & Analytics:** Python (pandas, numpy, scikit-learn), R, SQL, Statistical modeling 
+**Programming & Analytics:** Python (pandas, numpy, scikit-learn), R, SQL, Statistical modeling  
 
 ## Professional Experience
 
 ### **The Home Depot** | **Principal Data Architect**
 **September 2023 - Present**
 
-• **Led enterprise data architecture** for multi-billion retail operations, designing governance frameworks achieving 97% agile project management compliance across all technology teams
-
-• **Architected cloud-native data solutions** on GCP utilizing medallion architecture, BigQuery, and Cloud Composer, serving 500,000+ associates with real-time analytics
-
-• **Developed advanced ETL automation** using Python, SQLAlchemy, and pandas for SQL database integration, eliminating manual processes and saving project managers company-wide several days quarterly
-
-• **Created comprehensive BI dashboards** in Tableau for sprint compliance monitoring, ensuring standardized JIRA practices across 50+ development teams
+• **Led enterprise data architecture** for multi-billion retail operations, designing governance frameworks achieving 97% agile project management compliance across all teams
 
 • **Pioneered AI integration initiatives** by integrating Atlassian Enterprise Insights with Large Language Models (LLM) and developing vector-based solutions for automated JIRA insights and knowledge discovery
+
+• **Architected cloud-native data solutions** on GCP utilizing medallion architecture, BigQuery, and Cloud Composer, serving 450,000+ associates with analytics
+
+• **Developed JIRA ETL automation** using Python, SQLAlchemy, and pandas for SQL database integration, eliminating manual processes and saving project managers company-wide several days quarterly
+
+• **Created comprehensive BI dashboards** in Tableau for sprint compliance monitoring, ensuring standardized JIRA practices across 50+ development teams
 
 • **Designed factual data models** covering all Home Depot project management data, establishing foundation for enterprise-wide analytics
 
@@ -46,7 +46,6 @@ Principal Data Architect with 15+ years designing and implementing complex cloud
 
 ### **Amazon Web Services (AWS)** | **Senior Data Architect - Security Analytics**
 **December 2022 - February 2023**
-
 
 • **Provided strategic consulting** to AWS Security leadership on cloud-native reporting architectures and data strategy best practices
 
@@ -82,7 +81,7 @@ Principal Data Architect with 15+ years designing and implementing complex cloud
 
 • **Led cross-facility deployment** of data-driven workflow tools across all AWS data centers, resulting in enhanced uptime and significant reduction in facility outage risks
 
-### **Point72 (formerly SAC Capital)** | **Quantitative Trader & Data Analyst**
+### **Point72 (formerly SAC Capital Advisors)** | **Quantitative Trader & Data Analyst**
 **July 2008 - September 2010**
 
 • **Managed $250M fund** through advanced data analytics and algorithmic trading strategies, reducing execution slippage by 45% through post-trade analysis and broker algorithm customization
@@ -91,6 +90,6 @@ Principal Data Architect with 15+ years designing and implementing complex cloud
 
 ## Education & Certifications
 
-**B.A. History** | University of Connecticut (2005-2010)  
-**Licensed Skydiver** | USPA  
-**Extra Class Amateur Radio Operator** | NU3F | ARRL
+**B.A. History** - University of Connecticut (2010)  
+**Licensed Skydiver** - USPA  
+**Extra Class Amateur Radio Operator** - NU3F

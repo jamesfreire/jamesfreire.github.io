@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Remove all horizontal rules/dividers
+hr {
+  display: none;
+}
+
+// If the lines are borders on headings
+h1, h2, h3, h4, h5, h6 {
+  border-bottom: none !important;
+  border-top: none !important;
+}
+
+// Remove any section dividers
+.section-divider {
+  display: none;
+}

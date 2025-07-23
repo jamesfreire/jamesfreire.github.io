@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+  display: none;
+}
+
 // Remove all horizontal rules/dividers
 hr {
   display: none;

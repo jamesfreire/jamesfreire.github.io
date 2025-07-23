@@ -26,7 +26,7 @@ Principal Data Architect with 15+ years designing and implementing complex cloud
 - **Pioneered AI integration initiatives** by integrating Atlassian Enterprise Insights with Large Language Models (LLM) and developing vector-based solutions for automated JIRA insights and knowledge discovery
 - **Architected cloud-native data solutions** on GCP utilizing medallion architecture, BigQuery, and Cloud Composer, serving 450,000+ associates with analytics
 - **Developed JIRA ETL automation** using Python, SQLAlchemy, and pandas for SQL database integration, eliminating manual processes and saving project managers company-wide several days quarterly
-- **Created comprehensive BI dashboards** in Tableau for sprint compliance monitoring, ensuring standardized JIRA practices across 50+ development teams
+- **Created comprehensive BI dashboards** in Tableau for sprint compliance monitoring, ensuring standardized JIRA practices across all of Home Depot's teams
 - **Designed factual data models** covering all Home Depot project management data, establishing foundation for enterprise-wide analytics
 
 ### **BulkOps.io** | **Principal Data Architect & AI Researcher**
